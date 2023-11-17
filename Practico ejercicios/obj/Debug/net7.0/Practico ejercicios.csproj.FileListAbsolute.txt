@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Practico ejercicios\bin\Debug\net7.0\Practico ejercicios.exe
+C:\Users\Dell\Desktop\Practico ejercicios\bin\Debug\net7.0\Practico ejercicios.deps.json
+C:\Users\Dell\Desktop\Practico ejercicios\bin\Debug\net7.0\Practico ejercicios.runtimeconfig.json
+C:\Users\Dell\Desktop\Practico ejercicios\bin\Debug\net7.0\Practico ejercicios.dll
+C:\Users\Dell\Desktop\Practico ejercicios\bin\Debug\net7.0\Practico ejercicios.pdb
+C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.dll
+C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\refint\Practico ejercicios.dll
+C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.pdb
+C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\ref\Practico ejercicios.dll
