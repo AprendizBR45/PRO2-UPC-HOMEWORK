@@ -83,29 +83,32 @@ class Program
 
 
       // Instancia de ClaseArray A
-        /*ClaseArray A = new ClaseArray(5);
-        
-        A.ArrayCadenas[0] = "1";
-        A.ArrayCadenas[1] = "2";
-        A.ArrayCadenas[2] = "3";
-        A.ArrayCadenas[3] = "4";
+        // Instancia de ClaseArray A
+        ClaseArray A = new ClaseArray(5);
+        A.ArrayCadenas[0] = "Uno";
+        A.ArrayCadenas[1] = "Dos";
+        A.ArrayCadenas[2] = "Tres";
+        A.ArrayCadenas[3] = "Cuatro";
+        A.ArrayCadenas[4] = "Cinco";
 
-        // Mostrar el array A antes de realizar operaciones
-        Console.WriteLine("Array A antes de operaciones:");
+        // Mostrar el array A antes de invertir
+        Console.WriteLine("Array A antes de invertir:");
         A.MostrarArray();
         Console.WriteLine("-----------------");
 
-        // Operación de invertir el array de cadenas
+        // Operación de invertir el array de cadenas usando Array.Reverse
         A.InvertirArrayCadenas();
 
-        // Mostrar el array A después de invertir el array de cadenas
+        // Mostrar el array A después de invertir
         Console.WriteLine("Array A después de invertir el array de cadenas:");
-        A.MostrarArray();*/
-        string[] arrayA = { "manzana", "banana", "pera", "uva" };
+        A.MostrarArray();
+        
+        
+        /*string[] arrayA = { "manzana", "banana", "pera", "uva" };
         string[] arrayB = { "banana", "pera", "kiwi", "mango" };
 
          //Llamada al método para calcular la diferencia y mostrar el resultado
-        DiferenciaArrayByA.CalcularDiferenciaArrayCadenas(arrayB, arrayA);
+        DiferenciaArrayByA.CalcularDiferenciaArrayCadenas(arrayB, arrayA);*/
 
 
     } 

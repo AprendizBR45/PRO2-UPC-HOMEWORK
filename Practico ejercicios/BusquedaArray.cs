@@ -1,3 +1,4 @@
+using System;
 public class BusquedaArray
 {
     public static bool BuscarElementoArrayCadenas(string[] array, string elemento)

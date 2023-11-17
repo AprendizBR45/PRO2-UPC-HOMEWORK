@@ -12,3 +12,17 @@ C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\refint\Practico ejerc
 C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.pdb
 C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.genruntimeconfig.cache
 C:\Users\Dell\Desktop\Practico ejercicios\obj\Debug\net7.0\ref\Practico ejercicios.dll
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\bin\Debug\net7.0\Practico ejercicios.exe
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\bin\Debug\net7.0\Practico ejercicios.deps.json
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\bin\Debug\net7.0\Practico ejercicios.runtimeconfig.json
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\bin\Debug\net7.0\Practico ejercicios.dll
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\bin\Debug\net7.0\Practico ejercicios.pdb
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.AssemblyInfoInputs.cache
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.AssemblyInfo.cs
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.csproj.CoreCompileInputs.cache
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.dll
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\obj\Debug\net7.0\refint\Practico ejercicios.dll
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.pdb
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\obj\Debug\net7.0\Practico ejercicios.genruntimeconfig.cache
+D:\angel\PRO2-UPC-HOMEWORK\Practico ejercicios\obj\Debug\net7.0\ref\Practico ejercicios.dll
