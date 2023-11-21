@@ -1,0 +1,14 @@
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\bin\Debug\net7.0\recursividad.exe
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\bin\Debug\net7.0\recursividad.deps.json
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\bin\Debug\net7.0\recursividad.runtimeconfig.json
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\bin\Debug\net7.0\recursividad.dll
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\bin\Debug\net7.0\recursividad.pdb
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\obj\Debug\net7.0\recursividad.GeneratedMSBuildEditorConfig.editorconfig
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\obj\Debug\net7.0\recursividad.AssemblyInfoInputs.cache
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\obj\Debug\net7.0\recursividad.AssemblyInfo.cs
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\obj\Debug\net7.0\recursividad.csproj.CoreCompileInputs.cache
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\obj\Debug\net7.0\recursividad.dll
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\obj\Debug\net7.0\refint\recursividad.dll
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\obj\Debug\net7.0\recursividad.pdb
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\obj\Debug\net7.0\recursividad.genruntimeconfig.cache
+D:\angel\PRO2-UPC-HOMEWORK\recursividad\obj\Debug\net7.0\ref\recursividad.dll
