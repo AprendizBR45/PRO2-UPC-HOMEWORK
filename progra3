@@ -1,0 +1,150 @@
+//Console.WriteLine(" Ingrese el primer Numero ");
+//int num1 = int.Parse(Console.ReadLine());
+//Console.WriteLine(" Ingrese el segundo Numero ");
+//int num2 = int.Parse(Console.ReadLine());
+//Console.WriteLine(" Ingrese el Tercer Numero");
+//int num3 = int.Parse(Console.ReadLine());
+
+//int menor;
+
+//if (num1 < num2)
+//{
+//    if (num1 < num3)
+//    {
+//        menor = num1;
+//    }
+//    else
+//    {
+//        menor = num3;
+//    }
+//}
+//else
+//{
+//    if (num2 < num3)
+//    {
+//        menor = num2;
+//    }
+//    else
+//    {
+//        menor = num3;
+//    }
+//}
+//Console.WriteLine(" El Numero Menor es: " + menor);
+
+//Console.WriteLine(" Ingrese el primer Numero ");
+//int num1 = int.Parse(Console.ReadLine());
+//Console.WriteLine(" Ingrese el segundo Numero ");
+//int num2 = int.Parse(Console.ReadLine());
+//Console.WriteLine(" Ingrese el Tercer Numero ");
+//int num3 = int.Parse(Console.ReadLine());
+//Console.WriteLine(" Ingrese el Cuarto Numero ");
+//int num4 = int.Parse(Console.ReadLine());
+
+//int mayor = 0;
+
+//if (num1 > num2)
+//{
+//    if (num1 > num3)
+//    {
+//        if (num1 > num4)
+//        {
+//            mayor = num1;
+//        }
+//    }
+//    else
+//    {
+//        mayor = num4;
+//    }
+//}
+//else
+//{
+//    if (num2 > num3)
+//    {
+//        if (num2 > num4)
+//        {
+//            mayor = num2;
+
+//        }
+
+//    }
+//    else
+//    {
+//        if (num3 > num4)
+//        {
+//            mayor = num3;
+//        }
+//        else
+//        {
+//            mayor = num4;
+//        }
+
+//    }
+//}
+//Console.WriteLine(" El Numero Mayor es: " + mayor);
+
+//Console.WriteLine(" Ingrese el primer Numero ");
+//int num1 = int.Parse(Console.ReadLine());
+//Console.WriteLine(" Ingrese el segundo Numero ");
+//int num2 = int.Parse(Console.ReadLine());
+//Console.WriteLine(" Ingrese el Tercer Numero");
+//int num3 = int.Parse(Console.ReadLine());
+
+//int menor;
+
+//if (num1 < num2)
+//{
+//    if (num2 > num3)
+//    {
+//        menor = num3;
+//    }
+//    else
+//    {
+//        menor = num2;
+//    }
+//}
+//else
+//{
+//    if (num2 > num3)
+//    {
+//        menor = num3;
+//    }
+//    else
+//    {
+//        menor = num2;
+//    }
+//}
+//Console.WriteLine(" El Numero medio es: " + menor);
+
+//Console.WriteLine("Ingrese la cantidad de numeros de la serie ");
+//int cantidadNumeros = int.Parse(Console.ReadLine());
+//int i = 0;
+//int serie = 1;
+//int razon = 2;
+
+//while (i < cantidadNumeros)
+//{
+//    Console.WriteLine(serie);
+//    serie = serie * razon;
+
+//    i++;
+
+
+//}
+
+
+Console.WriteLine("Ingrese la cantidad de numeros de la serie ");
+int cantidadNumeros = int.Parse(Console.ReadLine());
+int i = 0;
+int serie = 0;
+int razon = 2;
+
+
+while (i < cantidadNumeros)
+{
+    Console.WriteLine(serie);
+    serie = serie + razon;
+    razon = razon + 2;
+    i++;
+
+
+}
